@@ -7,3 +7,18 @@
 [submodule "VFS"]
 	path = VFS
 	url = https://github.com/BiSharper/RvSharper.FileSystem
+[submodule "Shape"]
+	path = Shape
+	url = https://github.com/BiSharper/RvSharper.Shape
+[submodule "Texture"]
+	path = Texture
+	url = https://github.com/BiSharper/RvSharper.Texture
+[submodule "StatusQuo"]
+	path = StatusQuo
+	url = https://github.com/BiSharper/SqSharper
+[submodule "Sound"]
+	path = Sound
+	url = https://github.com/BiSharper/RvSharper.Sound
+[submodule "Material"]
+	path = Material
+	url = https://github.com/BiSharper/RvSharper.Material
