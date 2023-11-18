@@ -1,0 +1,9 @@
+[submodule "Param"]
+	path = Param
+	url = https://github.com/BiSharper/RvSharper.Param
+[submodule "Bank"]
+	path = Bank
+	url = https://github.com/BiSharper/RvSharper.Bank
+[submodule "VFS"]
+	path = VFS
+	url = https://github.com/BiSharper/RvSharper.FileSystem
